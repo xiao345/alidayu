@@ -1,0 +1,14 @@
+{
+    "name": "xiao34/alidayu",
+    "description": "alidayu sdk",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiao",
+            "email": "xiao345@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
